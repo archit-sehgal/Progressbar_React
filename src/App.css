@@ -10,14 +10,14 @@
   display: flex;
   align-items: center;
   flex-direction: column;
-  gap:10px;
+  gap:20px;
 }
 .App span{
   font-size: 2rem;
 }
 .Progress{
   background-color: rgb(230, 230, 230);
-  border: 1px solid rgb(37, 37, 37);
+  border: 1px solid rgb(80, 191, 74);
   width: 80%;
   height: 50px;
   position: relative;
@@ -33,5 +33,5 @@
 }
 .Progress div{
   height: 100%;
-  background-color: rgb(45, 158, 45);
+  background-color: rgb(72, 188, 72);
 }
